@@ -48,19 +48,19 @@ The application is executable and is in the form of a "jar" file.
 
 2. The application executes and says "Started Application" in the console
 
-![]()
+![](images/Picture1.png)
 
 3. Hit the url http://localhost:8080/createOutputFile on a browser of your choice. But alternatively
    open up any of the REST Clients like Postman or SOAP UI
 4. Feed the URL above and add additional headers as shown in the example.
 
-![]()
+![](images/Picture2.png)
 
 5. Then hit "Send"
 6. Look for an "Output" folder in the Desktop.
 7. To view the response, open the output.txt file.
 
-![]()
+![](images/Picture3.png)
 
 ### Instructions to install the android app and test
 
@@ -81,7 +81,7 @@ The command for the same is -> adb install “path to the apk”
 12.	The resulting image could be found on the server. 
 
 
-![]()
+![](images/image_5.png)
 
 
 ### Reference Links
